@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "nbonnie idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "nbonnie left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "nbonnie right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "nbonnie down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				12
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "nbonnie up0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/n_bonnie2pissed",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "nb",
+	"flip_x": false,
+	"healthbar_colors": [
+		197,
+		0,
+		255
+	],
+	"camera_position": [
+		10,
+		-20
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

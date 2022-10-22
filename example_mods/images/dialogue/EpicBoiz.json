@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		140,
+		-10
+	],
+	"scale": 1.35,
+	"animations": [
+		{
+			"loop_name": "Dialouge nf0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Dialouge nf0",
+			"anim": "nf",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Dialouge bon0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Dialouge bon0",
+			"anim": "bon",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Dialouge evil0",
+			"idle_offsets": [
+				20,
+				30
+			],
+			"idle_name": "Dialouge evil0",
+			"anim": "evil",
+			"loop_offsets": [
+				20,
+				30
+			]
+		},
+		{
+			"loop_name": "Dialouge eviaaale0",
+			"idle_offsets": [
+				214,
+				0
+			],
+			"idle_name": "Dialouge evile0",
+			"anim": "evile",
+			"loop_offsets": [
+				214,
+				0
+			]
+		}
+	],
+	"image": "Dialouge"
+}

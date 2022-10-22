@@ -1,0 +1,50 @@
+{
+	"storyName": "On The Heights...  (Vs Evilguestandraven)",
+	"difficulties": "Standard, Casual",
+	"hideFreeplay": false,
+	"weekBackground": "E3",
+	"weekBefore": "Eweek2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Evilguest",
+			"evilguest",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Grinding",
+			"evilguest",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Eclipse",
+			"evilguesteclipse",
+			[
+				95,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Eweek3"
+}

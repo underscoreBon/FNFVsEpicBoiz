@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Funkin-Up",
+			"nb",
+			[
+				175,
+				0,
+				255
+			]
+		],
+		[
+			"Complexity",
+			"nb",
+			[
+				175,
+				0,
+				255
+			]
+		],
+		[
+			"Outrage",
+			"nb",
+			[
+				175,
+				0,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "E1",
+	"difficulties": "Standard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Funky Friday 1v1 (VS. n_bonnie2)",
+	"weekName": "Eweek1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

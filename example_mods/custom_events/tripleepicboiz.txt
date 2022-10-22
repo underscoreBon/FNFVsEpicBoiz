@@ -1,0 +1,5 @@
+value 1- 0/1/2/3/4
+0 - miko
+1 - doomspire
+2 - heights
+3 - heights (dark)

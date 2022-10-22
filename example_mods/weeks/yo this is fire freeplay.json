@@ -1,0 +1,19 @@
+{
+	"songs": [
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "old",
+	"weekCharacters": [
+		"nb",
+		"gf",
+		"bf"
+	],
+	"storyName": "yo this is fire",
+	"weekName": "Eweek1 (old)",
+	"freeplayColor": [
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,8 @@
+Toggles Ring Mechanic
+Value 1 - True/False
+For the filthy casuals:
+True = Turns on the Ring Mechanic
+False = Turns it off
+
+WARNING: If you are using a
+modchart, this may affect it

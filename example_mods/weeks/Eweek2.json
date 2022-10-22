@@ -1,0 +1,50 @@
+{
+	"storyName": "Doomspire Rap Battle (Vs. Jack_E_)",
+	"difficulties": "Standard, Casual",
+	"hideFreeplay": false,
+	"weekBackground": "E2",
+	"weekBefore": "Eweek1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"NCounter",
+			"nf",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"Rocket",
+			"nf",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"Intense",
+			"nf",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Eweek2"
+}

@@ -1,0 +1,9 @@
+{
+	"directory": "images/stageshit",
+	"defaultZoom": 0.85,
+	"isPixelStage": false,
+
+	"boyfriend": [900, 100],
+	"girlfriend": [400, 100],
+	"opponent": [50, 100]
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jacke idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jacke left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-269,
+				-109
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jacke down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				29
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jacke up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jacke right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-264,
+				2
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "jacke shoot",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/n_freddyNewAssets",
+	"position": [
+		-120,
+		150
+	],
+	"healthicon": "nf",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		64,
+		255
+	],
+	"camera_position": [
+		220,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nb.png"><SubTexture name="nb down0000" x="0" y="0" width="644" height="797" frameX="0" frameY="0" frameWidth="644" frameHeight="797" />
+<SubTexture name="nb down0001" x="644" y="0" width="644" height="797" frameX="0" frameY="0" frameWidth="644" frameHeight="797" />
+<SubTexture name="nb idle0000" x="1288" y="0" width="644" height="797" frameX="0" frameY="0" frameWidth="644" frameHeight="797" />
+<SubTexture name="nb idle0001" x="0" y="797" width="644" height="797" frameX="0" frameY="0" frameWidth="644" frameHeight="797" />
+<SubTexture name="nb idle0002" x="644" y="797" width="644" height="797" frameX="0" frameY="0" frameWidth="644" frameHeight="797" />
+<SubTexture name="nb idle0003" x="1288" y="797" width="644" height="797" frameX="0" frameY="0" frameWidth="644" frameHeight="797" />
+<SubTexture name="nb idle0004" x="0" y="1594" width="644" height="797" frameX="0" frameY="0" frameWidth="644" frameHeight="797" />
+<SubTexture name="nb left0000" x="644" y="1594" width="644" height="797" frameX="0" frameY="0" frameWidth="644" frameHeight="797" />
+<SubTexture name="nb left0001" x="1288" y="1594" width="644" height="797" frameX="0" frameY="0" frameWidth="644" frameHeight="797" />
+<SubTexture name="nb right0000" x="0" y="2391" width="644" height="797" frameX="0" frameY="0" frameWidth="644" frameHeight="797" />
+<SubTexture name="nb right0001" x="644" y="2391" width="644" height="797" frameX="0" frameY="0" frameWidth="644" frameHeight="797" />
+<SubTexture name="nb up0000" x="1288" y="2391" width="644" height="797" frameX="0" frameY="0" frameWidth="644" frameHeight="797" />
+<SubTexture name="nb up0001" x="0" y="3188" width="644" height="787" frameX="0" frameY="0" frameWidth="644" frameHeight="787" />
+</TextureAtlas>

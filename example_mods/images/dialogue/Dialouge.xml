@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dialouge.png">
+<SubTexture name="Dialouge nf0000" x="0" y="0" width="439" height="532" frameX="-5" frameY="0" frameWidth="444" frameHeight="532" />
+<SubTexture name="Dialouge bon0000" x="439" y="0" width="384" height="492" frameX="0" frameY="0" frameWidth="384" frameHeight="492" />
+<SubTexture name="Dialouge evil0000" x="823" y="0" width="476" height="485" frameX="-34" frameY="-34" frameWidth="510" frameHeight="519" />
+<SubTexture name="Dialouge evile0000" x="0" y="532" width="867" height="480" frameX="0" frameY="0" frameWidth="867" frameHeight="480" />
+</TextureAtlas>

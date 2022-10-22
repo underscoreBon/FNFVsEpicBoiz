@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "idle",
+			"loop": false,
+			"name": "evilguest idle"
+		},
+		{
+			"offsets": [
+				-31,
+				1
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "evilguest right0"
+		},
+		{
+			"offsets": [
+				-88,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "evilguest down0"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "attack",
+			"loop": false,
+			"name": "evilguest attack0"
+		},
+		{
+			"offsets": [
+				-47,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "evilguest left0"
+		},
+		{
+			"offsets": [
+				-6,
+				18
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singUP",
+			"loop": false,
+			"name": "evilguest up0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/evilnewassets",
+	"position": [
+		-120,
+		180
+	],
+	"healthicon": "evilguest",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-140,
+		-150
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

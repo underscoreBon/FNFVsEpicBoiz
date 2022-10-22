@@ -1,0 +1,5 @@
+Screen Flashes, That's it!
+(Does not execute when Flashing lights
+are off)
+Value 1: Flash Fade Duration
+Value 2: Color (HEX)

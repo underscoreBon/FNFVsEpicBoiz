@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="n_bonnie2Pissed.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nbonnie down0000" x="0" y="0" width="360" height="559" frameX="0" frameY="0" frameWidth="370" frameHeight="559"/>
+	<SubTexture name="nbonnie down0001" x="0" y="0" width="360" height="559" frameX="0" frameY="0" frameWidth="370" frameHeight="559"/>
+	<SubTexture name="nbonnie down0002" x="360" y="0" width="358" height="559" frameX="-12" frameY="0" frameWidth="370" frameHeight="559"/>
+	<SubTexture name="nbonnie down0003" x="360" y="0" width="358" height="559" frameX="-12" frameY="0" frameWidth="370" frameHeight="559"/>
+	<SubTexture name="nbonnie idle0000" x="718" y="0" width="409" height="562" frameX="-6" frameY="-13" frameWidth="423" frameHeight="576"/>
+	<SubTexture name="nbonnie idle0001" x="718" y="0" width="409" height="562" frameX="-6" frameY="-13" frameWidth="423" frameHeight="576"/>
+	<SubTexture name="nbonnie idle0002" x="1127" y="0" width="412" height="563" frameX="-11" frameY="-13" frameWidth="423" frameHeight="576"/>
+	<SubTexture name="nbonnie idle0003" x="1127" y="0" width="412" height="563" frameX="-11" frameY="-13" frameWidth="423" frameHeight="576"/>
+	<SubTexture name="nbonnie idle0004" x="1539" y="0" width="388" height="563" frameX="-8" frameY="-13" frameWidth="423" frameHeight="576"/>
+	<SubTexture name="nbonnie idle0005" x="1539" y="0" width="388" height="563" frameX="-8" frameY="-13" frameWidth="423" frameHeight="576"/>
+	<SubTexture name="nbonnie idle0006" x="1927" y="0" width="389" height="575" frameX="0" frameY="0" frameWidth="423" frameHeight="576"/>
+	<SubTexture name="nbonnie idle0007" x="1927" y="0" width="389" height="575" frameX="0" frameY="0" frameWidth="423" frameHeight="576"/>
+	<SubTexture name="nbonnie idle0008" x="2316" y="0" width="385" height="575" frameX="-1" frameY="0" frameWidth="423" frameHeight="576"/>
+	<SubTexture name="nbonnie idle0009" x="2316" y="0" width="385" height="575" frameX="-1" frameY="0" frameWidth="423" frameHeight="576"/>
+	<SubTexture name="nbonnie left0000" x="2701" y="0" width="379" height="576" frameX="0" frameY="0" frameWidth="395" frameHeight="576"/>
+	<SubTexture name="nbonnie left0001" x="2701" y="0" width="379" height="576" frameX="0" frameY="0" frameWidth="395" frameHeight="576"/>
+	<SubTexture name="nbonnie left0002" x="3080" y="0" width="364" height="576" frameX="-17" frameY="0" frameWidth="395" frameHeight="576"/>
+	<SubTexture name="nbonnie left0003" x="3080" y="0" width="364" height="576" frameX="-17" frameY="0" frameWidth="395" frameHeight="576"/>
+	<SubTexture name="nbonnie left0004" x="3444" y="0" width="345" height="576" frameX="-50" frameY="0" frameWidth="395" frameHeight="576"/>
+	<SubTexture name="nbonnie left0005" x="3444" y="0" width="345" height="576" frameX="-50" frameY="0" frameWidth="395" frameHeight="576"/>
+	<SubTexture name="nbonnie right0000" x="0" y="576" width="433" height="568" frameX="0" frameY="0" frameWidth="446" frameHeight="568"/>
+	<SubTexture name="nbonnie right0001" x="0" y="576" width="433" height="568" frameX="0" frameY="0" frameWidth="446" frameHeight="568"/>
+	<SubTexture name="nbonnie right0002" x="433" y="576" width="440" height="568" frameX="-3" frameY="0" frameWidth="446" frameHeight="568"/>
+	<SubTexture name="nbonnie right0003" x="433" y="576" width="440" height="568" frameX="-3" frameY="0" frameWidth="446" frameHeight="568"/>
+	<SubTexture name="nbonnie right0004" x="873" y="576" width="436" height="568" frameX="-10" frameY="0" frameWidth="446" frameHeight="568"/>
+	<SubTexture name="nbonnie right0005" x="873" y="576" width="436" height="568" frameX="-10" frameY="0" frameWidth="446" frameHeight="568"/>
+	<SubTexture name="nbonnie up0000" x="1309" y="576" width="370" height="583" frameX="-8" frameY="-4" frameWidth="382" frameHeight="587"/>
+	<SubTexture name="nbonnie up0001" x="1309" y="576" width="370" height="583" frameX="-8" frameY="-4" frameWidth="382" frameHeight="587"/>
+	<SubTexture name="nbonnie up0002" x="1679" y="576" width="371" height="587" frameX="-4" frameY="0" frameWidth="382" frameHeight="587"/>
+	<SubTexture name="nbonnie up0003" x="1679" y="576" width="371" height="587" frameX="-4" frameY="0" frameWidth="382" frameHeight="587"/>
+	<SubTexture name="nbonnie up0004" x="2050" y="576" width="382" height="574" frameX="0" frameY="-11" frameWidth="382" frameHeight="587"/>
+	<SubTexture name="nbonnie up0005" x="2050" y="576" width="382" height="574" frameX="0" frameY="-11" frameWidth="382" frameHeight="587"/>
+</TextureAtlas>

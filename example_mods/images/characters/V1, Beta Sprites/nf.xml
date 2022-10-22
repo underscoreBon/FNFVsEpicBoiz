@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nf.png"><SubTexture name="nf down0000" x="0" y="0" width="1106" height="730" frameX="0" frameY="0" frameWidth="1106" frameHeight="730" />
+<SubTexture name="nf down0001" x="1106" y="0" width="1106" height="730" frameX="0" frameY="0" frameWidth="1106" frameHeight="730" />
+<SubTexture name="nf down0002" x="2212" y="0" width="1106" height="730" frameX="0" frameY="0" frameWidth="1106" frameHeight="730" />
+<SubTexture name="nf idle0004" x="3318" y="0" width="1106" height="730" frameX="0" frameY="0" frameWidth="1106" frameHeight="730" />
+<SubTexture name="nf idle0003" x="0" y="730" width="1106" height="730" frameX="0" frameY="0" frameWidth="1106" frameHeight="730" />
+<SubTexture name="nf idle0002" x="1106" y="730" width="1106" height="730" frameX="0" frameY="0" frameWidth="1106" frameHeight="730" />
+<SubTexture name="nf idle0001" x="2212" y="730" width="1106" height="730" frameX="0" frameY="0" frameWidth="1106" frameHeight="730" />
+<SubTexture name="nf idle0000" x="3318" y="730" width="1106" height="730" frameX="0" frameY="0" frameWidth="1106" frameHeight="730" />
+<SubTexture name="nf left0000" x="0" y="1460" width="1106" height="730" frameX="0" frameY="0" frameWidth="1106" frameHeight="730" />
+<SubTexture name="nf left0001" x="1106" y="1460" width="1106" height="730" frameX="0" frameY="0" frameWidth="1106" frameHeight="730" />
+<SubTexture name="nf left0002" x="2212" y="1460" width="1106" height="730" frameX="0" frameY="0" frameWidth="1106" frameHeight="730" />
+<SubTexture name="nf right0000" x="3318" y="1460" width="1106" height="736" frameX="0" frameY="0" frameWidth="1106" frameHeight="736" />
+<SubTexture name="nf right0001" x="0" y="2196" width="1106" height="736" frameX="0" frameY="0" frameWidth="1106" frameHeight="736" />
+<SubTexture name="nf right0002" x="1106" y="2196" width="1106" height="736" frameX="0" frameY="0" frameWidth="1106" frameHeight="736" />
+<SubTexture name="nf attack0000" x="2212" y="2196" width="1106" height="736" frameX="0" frameY="0" frameWidth="1106" frameHeight="736" />
+<SubTexture name="nf attack0001" x="3318" y="2196" width="1106" height="736" frameX="0" frameY="0" frameWidth="1106" frameHeight="736" />
+<SubTexture name="nf attack0002" x="0" y="2932" width="1106" height="736" frameX="0" frameY="0" frameWidth="1106" frameHeight="736" />
+<SubTexture name="nf up0000" x="1106" y="2932" width="1106" height="740" frameX="0" frameY="0" frameWidth="1106" frameHeight="740" />
+<SubTexture name="nf up0001" x="2212" y="2932" width="1106" height="734" frameX="0" frameY="0" frameWidth="1106" frameHeight="734" />
+<SubTexture name="nf up0002" x="3318" y="2932" width="1106" height="750" frameX="0" frameY="0" frameWidth="1106" frameHeight="750" />
+</TextureAtlas>

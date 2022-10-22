@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="evilNewAssets.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="evilguest attack0000" x="0" y="0" width="799" height="591" frameX="-47" frameY="-2" frameWidth="846" frameHeight="735"/>
+	<SubTexture name="evilguest attack0001" x="0" y="0" width="799" height="591" frameX="-47" frameY="-2" frameWidth="846" frameHeight="735"/>
+	<SubTexture name="evilguest attack0002" x="799" y="0" width="494" height="733" frameX="0" frameY="-2" frameWidth="846" frameHeight="735"/>
+	<SubTexture name="evilguest attack0003" x="799" y="0" width="494" height="733" frameX="0" frameY="-2" frameWidth="846" frameHeight="735"/>
+	<SubTexture name="evilguest attack0004" x="1293" y="0" width="475" height="705" frameX="-19" frameY="-2" frameWidth="846" frameHeight="735"/>
+	<SubTexture name="evilguest attack0005" x="1293" y="0" width="475" height="705" frameX="-19" frameY="-2" frameWidth="846" frameHeight="735"/>
+	<SubTexture name="evilguest attack0006" x="1768" y="0" width="510" height="600" frameX="-97" frameY="0" frameWidth="846" frameHeight="735"/>
+	<SubTexture name="evilguest attack0007" x="1768" y="0" width="510" height="600" frameX="-97" frameY="0" frameWidth="846" frameHeight="735"/>
+	<SubTexture name="evilguest down0000" x="2278" y="0" width="415" height="590" frameX="0" frameY="-22" frameWidth="471" frameHeight="612"/>
+	<SubTexture name="evilguest down0001" x="2278" y="0" width="415" height="590" frameX="0" frameY="-22" frameWidth="471" frameHeight="612"/>
+	<SubTexture name="evilguest down0002" x="2693" y="0" width="471" height="603" frameX="0" frameY="0" frameWidth="471" frameHeight="612"/>
+	<SubTexture name="evilguest down0003" x="2693" y="0" width="471" height="603" frameX="0" frameY="0" frameWidth="471" frameHeight="612"/>
+	<SubTexture name="evilguest idle0000" x="3164" y="0" width="572" height="564" frameX="0" frameY="-38" frameWidth="644" frameHeight="602"/>
+	<SubTexture name="evilguest idle0001" x="3164" y="0" width="572" height="564" frameX="0" frameY="-38" frameWidth="644" frameHeight="602"/>
+	<SubTexture name="evilguest idle0002" x="0" y="733" width="604" height="597" frameX="-25" frameY="-2" frameWidth="644" frameHeight="602"/>
+	<SubTexture name="evilguest idle0003" x="0" y="733" width="604" height="597" frameX="-25" frameY="-2" frameWidth="644" frameHeight="602"/>
+	<SubTexture name="evilguest idle0004" x="604" y="733" width="530" height="601" frameX="-102" frameY="0" frameWidth="644" frameHeight="602"/>
+	<SubTexture name="evilguest idle0005" x="604" y="733" width="530" height="601" frameX="-102" frameY="0" frameWidth="644" frameHeight="602"/>
+	<SubTexture name="evilguest idle0006" x="1134" y="733" width="542" height="601" frameX="-102" frameY="0" frameWidth="644" frameHeight="602"/>
+	<SubTexture name="evilguest idle0007" x="1134" y="733" width="542" height="601" frameX="-102" frameY="0" frameWidth="644" frameHeight="602"/>
+	<SubTexture name="evilguest idle0008" x="1676" y="733" width="511" height="600" frameX="-133" frameY="0" frameWidth="644" frameHeight="602"/>
+	<SubTexture name="evilguest idle0009" x="1676" y="733" width="511" height="600" frameX="-133" frameY="0" frameWidth="644" frameHeight="602"/>
+	<SubTexture name="evilguest left0000" x="2187" y="733" width="577" height="613" frameX="0" frameY="-5" frameWidth="589" frameHeight="628"/>
+	<SubTexture name="evilguest left0001" x="2187" y="733" width="577" height="613" frameX="0" frameY="-5" frameWidth="589" frameHeight="628"/>
+	<SubTexture name="evilguest left0002" x="2764" y="733" width="555" height="628" frameX="-21" frameY="0" frameWidth="589" frameHeight="628"/>
+	<SubTexture name="evilguest left0003" x="2764" y="733" width="555" height="628" frameX="-21" frameY="0" frameWidth="589" frameHeight="628"/>
+	<SubTexture name="evilguest left0004" x="3319" y="733" width="507" height="617" frameX="-82" frameY="0" frameWidth="589" frameHeight="628"/>
+	<SubTexture name="evilguest left0005" x="3319" y="733" width="507" height="617" frameX="-82" frameY="0" frameWidth="589" frameHeight="628"/>
+	<SubTexture name="evilguest right0000" x="0" y="1361" width="502" height="591" frameX="0" frameY="0" frameWidth="593" frameHeight="631"/>
+	<SubTexture name="evilguest right0001" x="0" y="1361" width="502" height="591" frameX="0" frameY="0" frameWidth="593" frameHeight="631"/>
+	<SubTexture name="evilguest right0002" x="502" y="1361" width="477" height="614" frameX="-79" frameY="-6" frameWidth="593" frameHeight="631"/>
+	<SubTexture name="evilguest right0003" x="502" y="1361" width="477" height="614" frameX="-79" frameY="-6" frameWidth="593" frameHeight="631"/>
+	<SubTexture name="evilguest right0004" x="979" y="1361" width="514" height="629" frameX="-79" frameY="-2" frameWidth="593" frameHeight="631"/>
+	<SubTexture name="evilguest right0005" x="979" y="1361" width="514" height="629" frameX="-79" frameY="-2" frameWidth="593" frameHeight="631"/>
+	<SubTexture name="evilguest up0000" x="1493" y="1361" width="502" height="608" frameX="-15" frameY="0" frameWidth="532" frameHeight="609"/>
+	<SubTexture name="evilguest up0001" x="1493" y="1361" width="502" height="608" frameX="-15" frameY="0" frameWidth="532" frameHeight="609"/>
+	<SubTexture name="evilguest up0002" x="1995" y="1361" width="494" height="588" frameX="-5" frameY="-21" frameWidth="532" frameHeight="609"/>
+	<SubTexture name="evilguest up0003" x="1995" y="1361" width="494" height="588" frameX="-5" frameY="-21" frameWidth="532" frameHeight="609"/>
+	<SubTexture name="evilguest up0004" x="2489" y="1361" width="532" height="575" frameX="0" frameY="-34" frameWidth="532" frameHeight="609"/>
+	<SubTexture name="evilguest up0005" x="2489" y="1361" width="532" height="575" frameX="0" frameY="-34" frameWidth="532" frameHeight="609"/>
+</TextureAtlas>

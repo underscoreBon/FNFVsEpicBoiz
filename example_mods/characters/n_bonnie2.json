@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "nbonnie idle0"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "nbonnie left0"
+		},
+		{
+			"offsets": [
+				-11,
+				-7
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "nbonnie right0"
+		},
+		{
+			"offsets": [
+				4,
+				-13
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "nbonnie down0"
+		},
+		{
+			"offsets": [
+				-34,
+				12
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "nbonnie up0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/n_bonnie2newAssets",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "nb",
+	"flip_x": false,
+	"healthbar_colors": [
+		197,
+		0,
+		255
+	],
+	"camera_position": [
+		10,
+		-20
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

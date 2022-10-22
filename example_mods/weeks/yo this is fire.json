@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Funkin-Up",
+			"nb-old",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Complexity",
+			"nb-old",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Outrage",
+			"nb-old",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": true,
+	"weekBackground": "welcome",
+	"difficulties": "old",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "yo this is fire",
+	"weekName": "Eweek1 (old)",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
