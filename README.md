@@ -1,5 +1,6 @@
-#VsEpicBoiz Source Code
-#DOWNLOAD THE MOD!!!!!!!! NOW!!!!!
+# VsEpicBoiz Source Code
+
+DOWNLOAD THE MOD!!!!!!!! NOW!!!!!
 https://gamebanana.com/mods/381875
 https://gamejolt.com/games/FNFVSEpicBoizpog/669301
 
@@ -7,7 +8,7 @@ Uses:
 https://github.com/TentaRJ/GameJolt-FNF-Integration
 https://github.com/ShadowMario/FNF-PsychEngine
 
-#COMPILING:
+# COMPILING:
 You need the latest version of Haxe to use this:
 https://haxe.org/download/
 and then you need HaxeFlixel:
