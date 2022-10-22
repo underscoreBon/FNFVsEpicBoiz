@@ -107,7 +107,7 @@ function onDestroy()
 end
 
 function onStepHit()
-    if curStep == 1280 then
+    if curStep == 1280 and songName == 'Exploitation' then
         makeLuaSprite('dark', nil, -2500, -2500)
         makeGraphic('dark', 5000, 5000, '010101')
         setObjectCamera('dark', 'game')
