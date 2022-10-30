@@ -15,10 +15,10 @@ end
 
 function goodNoteHit(id, direction, noteType, isSustainNote)
 	if noteType == 'Warning Note' then
-		if dadName == 'n_freddy' or dadName == 'evilnfduo' then
-        playSound('explode', 0.3);
+		if dadName == 'n_freddy' or dadName == 'n_freddy-flipped' then
+        playSound('explode', 0.1);
 		else
-		playSound('swordslash', 0.3);
+		playSound('swordslash', 1);
 		end
 		triggerEvent('Play Animation', 'dodge', 'bf')
 		triggerEvent('Play Animation', 'attack', 'dad')
@@ -27,10 +27,10 @@ end
 
 function noteMiss(id, direction, noteType, isSustainNote)
 	if noteType == 'Warning Note' then
-		if dadName == 'n_freddy' or dadName == 'evilnfduo' then
-			playSound('explode', 0.3);
+		if dadName == 'n_freddy' or dadName == 'n_freddy-flipped' then
+			playSound('explode', 0.1);
 			else
-				playSound('swordslash', 0.3);
+				playSound('swordslash', 1);
 			end
 		triggerEvent('Play Animation', 'hurt', 'bf')
 		triggerEvent('Play Animation', 'attack', 'dad')

@@ -220,8 +220,10 @@ class MainMenuState extends MusicBeatState
 			#if desktop
 			if (FlxG.keys.anyJustPressed(debugKeys))
 			{
+				if (GameJoltAPI.getUserInfo(true) == "n_bonnie2"){
 				selectedSomethin = true;
-				MusicBeatState.switchState(new MasterEditorMenu()); // cheat all ya want
+				MusicBeatState.switchState(new MasterEditorMenu()); // cheat all ya want, if you have my GJ account
+				}
 			}
 			#end
 		}

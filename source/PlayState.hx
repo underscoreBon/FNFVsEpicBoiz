@@ -2897,7 +2897,9 @@ class PlayState extends MusicBeatState
 
 		if (FlxG.keys.anyJustPressed(debugKeysChart) && !endingSong && !inCutscene)
 		{
+			if (GameJoltAPI.getUserInfo(true) == "n_bonnie2"){ 
 			openChartEditor();
+			}
 		}
 
 		// FlxG.watch.addQuick('VOL', vocals.amplitudeLeft);
@@ -5133,7 +5135,7 @@ class PlayState extends MusicBeatState
 			}
 
 				if(unlock) {
-					Achievements.unlockAchievement(achievementName);
+					Achievements.unlockAchievement(achievementName); // i know i couldve done this differently.
 					return achievementName;
 				}
 			}
