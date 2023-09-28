@@ -1,4 +1,9 @@
-# VsEpicBoiz Source Code
+**NOTICE:**
+due to the lack of interest in working on this mod, i have cancelled the project altogether, do not revive this, do not mention this, pretend this mod never existed. I want to move on. Thank you. - n_bonnie2 / underscoreBonbon
+
+ALL BUGS WILL NOT BE FIXED AND THE GAMEJOLT KEY WILL STAY THE SAME!!!
+
+# FNF VsEpicBoiz Source Code
 
 DOWNLOAD THE MOD!!!!!!!! NOW!!!!!
 https://gamebanana.com/mods/381875
